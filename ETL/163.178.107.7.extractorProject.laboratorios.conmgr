@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="163.178.107.7.extractorProject.laboratorios"
+  DTS:DTSID="{305063A6-574C-4E8B-8274-B76657BEAE93}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=163.178.107.7;User ID=laboratorios;Initial Catalog=extractorProject;Provider=PGNP.1;Persist Security Info=True;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAApXWD1vx92U2mYjeuWUQcYgAAAAACAAAAAAAQZgAAAAEAACAAAADv/zHJIqIaYSEfEPv1gqFDTEx8PSlDwBLocNvhedZrWQAAAAAOgAAAAAIAACAAAABgUPUX7L7mFR05GklfflI+zvfOth9BY85J7OswhwcQH4AAAAAib7KtX1OJVhR1H2mg9svZmE+MLuwGJXwrWIBCQPeRl++vrw+Xom4r62ThBDv6opMLNCUHDSjtmA0f0PkR90ulwAeM7VZxDlXT+YQJ8NAxYJxB0OI1KKQ04AKIGKriUpj11iqFZeEAh7SU5yjAsKYcfPtgMPhvK+LSdMYunbwaLEAAAADp4M++CwIDta4WLk5WkoXC7j3LkrGzrw58jDfFK5avOZiijZ3knHlqyF/dUpbjC1u206WIHkp17cPDXqy8p+2X</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
